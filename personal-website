@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CONTACT ME</title>
+  </head>
+  <body>
+    <h2>YOU CAN CONTACT ME THROUGH</h2>
+    <ul>
+      <li><a href="mailto:venkatarevantheedara451@gmail.com?subject=feedback">email me</a></li>
+      <li><a href="https://www.linkedin.com/in/venkata-revanth-eedara-260609204/">linkedin</a></li>
+      <li><a href="https://www.facebook.com/rero.rero.56027/">facebook</a></li>
+    </ul>
+
+    <h2>Coading platforms</h2>
+    <ul>
+      <li><a href="https://www.hackerrank.com/er8739">hackerrank</a></li>
+      <li><a href="https://www.codechef.com/users/revanth458">codechef</a></li>
+    </ul><hr>
+
+    <form class="" action="mailto:er8739@srmist.edu.in" method="post" enctype="text/plain">
+      <label for="">Your Name</label>
+      <input type="text" ><br />
+
+      <label>your email</label>
+      <input type="email"><br>
+
+      <label>Your Message</label><br />
+      <textarea rows="8" cols="80"></textarea><br><br>
+
+      <input type="submit" name="">
+    </form>
+  </body>
+</html>
